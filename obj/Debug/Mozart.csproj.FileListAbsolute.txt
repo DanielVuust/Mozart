@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Mozart\Mozart\bin\Debug\Mozart.exe.config
+C:\Users\danie\source\repos\Mozart\Mozart\bin\Debug\Mozart.exe
+C:\Users\danie\source\repos\Mozart\Mozart\bin\Debug\Mozart.pdb
+C:\Users\danie\source\repos\Mozart\Mozart\obj\Debug\Mozart.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Mozart\Mozart\obj\Debug\Mozart.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Mozart\Mozart\obj\Debug\Mozart.exe
+C:\Users\danie\source\repos\Mozart\Mozart\obj\Debug\Mozart.pdb
